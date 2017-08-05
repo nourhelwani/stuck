@@ -1,0 +1,12 @@
+C:\Users\pc\Documents\Visual Studio 2012\Projects\stuck\stuck\bin\Debug\stuck.exe.config
+C:\Users\pc\Documents\Visual Studio 2012\Projects\stuck\stuck\obj\Debug\stuck.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\stuck\stuck\bin\Debug\stuck.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\stuck\stuck\bin\Debug\stuck.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\stuck\stuck\obj\Debug\stuck.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\stuck\stuck\obj\Debug\stuck.pdb
+E:\programin progect\stuck\stuck\bin\Debug\stuck.exe.config
+E:\programin progect\stuck\stuck\obj\Debug\stuck.exe
+E:\programin progect\stuck\stuck\obj\Debug\stuck.pdb
+E:\programin progect\stuck\stuck\bin\Debug\stuck.exe
+E:\programin progect\stuck\stuck\bin\Debug\stuck.pdb
+E:\programin progect\stuck\stuck\obj\Debug\stuck.csprojResolveAssemblyReference.cache
